@@ -1,0 +1,3 @@
+store:
+    pattern:  /store/{store}
+    defaults: { _controller: AcmeStoreBundle:Store:index }
